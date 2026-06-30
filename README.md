@@ -31,25 +31,25 @@ A modern and responsive landing page built with HTML and Tailwind CSS.
 
 ## 📷 Preview
 
-### 🖥️ Desktop
+### 🖥️ Hero & Navbar
 
-![Desktop](images/preview.png)
+![Hero](images/navbar-hero-section.png)
 
-### ✨ Features Section
+### ✨ About & Features
 
-![Features](images/preview2.png)
+![About](images/about-features-section.png)
 
-### 🦶 Footer
+### 💬 Testimonials & Footer
 
-![Footer](images/preview3.png)
+![Footer](images/testimonial-footer-section.png)
 
-### 📱 Tablet
+### 📱 Tablet View
 
-![Tablet](images/preview-tablet.png)
+![Tablet](images/tablet-view.png)
 
-### 📱 Mobile
+### 📱 Mobile View
 
-![Mobile](images/preview-handphone.png)
+![Mobile](images/mobile-view.png)
 
 ## 📂 Folder Structure
 
